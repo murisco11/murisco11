@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F4442E&height=120&section=header"/>
+
 <h2 align="left">Hi 👋! My name is Maurício, and I'm a Software Engineering student at UFRN, with a technical background in IT and a focus on Industrial Automation at IMD - UFRN.</h2>
 
 ###
@@ -9,4 +9,4 @@
 </div>
 
 ###
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F4442E&height=120&section=footer"/>
+
