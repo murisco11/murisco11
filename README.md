@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Maurício, and I'm a Software Engineering student at UFRN, with a technical background in IT and a focus on Industrial Automation at IMD - UFRN.</h2>
+<h2 align="center">Hi 👋! My name is Maurício, and I'm a Software Engineering student at UFRN, with a technical background in IT and a focus on Industrial Automation at IMD - UFRN.</h2>
 
 ###
 
@@ -10,3 +10,15 @@
 
 ###
 
+<h2 align="center">These are the technologies I work with</h2>
+
+<div align="center">
+<img width='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img width='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+<img width='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img width='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+<img width='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
+<img width='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img width='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+<img width='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+</div>    
