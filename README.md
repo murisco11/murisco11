@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi 👋! My name is Maurício, and I'm a Software Engineering student at UFRN, with a technical background in IT and a focus on Industrial Automation at IMD - UFRN.</h2>
+<h2 align="center">Hi 👋! My name is Maurício, and I'm a Software Engineering student at UFRN, with a technical background in IT and a focus on Industrial Automation at IMD - UFRN .</h2>
 
 ###
 
